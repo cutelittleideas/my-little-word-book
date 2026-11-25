@@ -1,0 +1,1 @@
+{"name": "My Little Word Book", "short_name": "Word Book", "start_url": "./", "display": "standalone", "background_color": "#f7e1e8", "theme_color": "#f7e1e8", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
